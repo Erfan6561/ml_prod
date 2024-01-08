@@ -1,7 +1,6 @@
 # Импорт библиотек
 import io
 import streamlit as st
-import transformers
 from transformers import pipeline
 
 
