@@ -1,7 +1,6 @@
 # Импорт библиотек
 import io
 import streamlit as st
-import torch
 from transformers import is_torch_available
 from transformers import pipeline
 
