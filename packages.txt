@@ -5,3 +5,5 @@ pandas-dev
 geopy-dev
 numpy-dev
 transformers-dev
+torch-dev
+tensorflow-dev
