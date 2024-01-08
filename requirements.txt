@@ -10,3 +10,4 @@ tensorflow-intel==2.11.0
 tensorflow-io-gcs-filesystem==0.29.0
 PyTorch
 torch
+TensorFlow 2.0
