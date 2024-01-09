@@ -1,4 +1,4 @@
-io
-streamlit 
 transformers
-
+pipeline
+tensorflow
+torch
